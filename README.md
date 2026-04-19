@@ -19,6 +19,7 @@ It ensures correct order of operations and prevents invalid calculations.
 🛠 Technologies Used
 C#
 .NET (Windows Forms)
+
 ▶️ How to Run
 Open the .sln file in Visual Studio
 Build the project
