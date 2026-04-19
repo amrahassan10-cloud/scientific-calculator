@@ -11,8 +11,8 @@ Handles operator precedence correctly
 Error handling (e.g., division by zero, invalid input)
 
 Interactive GUI using Windows Forms
-🧠 How It Works
 
+ How It Works
 
 
 The calculator processes user input expressions and evaluates them step by step.
