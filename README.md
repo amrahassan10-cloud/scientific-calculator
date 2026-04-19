@@ -3,9 +3,13 @@
 
 ✨ Features
 Basic operations: +, −, ×, ÷
+
 Scientific functions: sin, cos, tan, log, sqrt
+
 Handles operator precedence correctly
+
 Error handling (e.g., division by zero, invalid input)
+
 Interactive GUI using Windows Forms
 🧠 How It Works
 
