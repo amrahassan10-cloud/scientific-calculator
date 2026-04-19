@@ -20,7 +20,7 @@ It ensures correct order of operations and prevents invalid calculations.
 
 
 
-🛠 Technologies Used
+ Technologies Used
 C#
 .NET (Windows Forms)
 
